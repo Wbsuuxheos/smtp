@@ -52,3 +52,4 @@ docker run \
     -e ST_TELEGRAM_MESSAGE_TEMPLATE="Subject: {subject}\\n\\n{body}" \
     kostyaesmukov/smtp_to_telegram
 ```
+ 
